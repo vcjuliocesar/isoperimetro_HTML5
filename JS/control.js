@@ -289,7 +289,7 @@ function DibujaFondo() {
         ctxf.fillStyle = Patron;
         ctxf.fillRect(0, 0, ctxf.canvas.width, ctxf.canvas.height);
     };
-    pasto.src = "../img/Green_grass_by_Gardek.jpg";
+    pasto.src = "img/Green_grass_by_Gardek.jpg";
 }
 
 
