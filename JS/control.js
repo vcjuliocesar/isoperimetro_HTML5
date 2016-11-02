@@ -235,7 +235,7 @@ function Lechugas() {
             }
         }
     };
-    Lechuga.src = "../img/lettuce.png";
+    Lechuga.src = "img/lettuce.png";
 }
 
 function DibujaPuntosFijos() {
