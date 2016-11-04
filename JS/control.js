@@ -1,6 +1,7 @@
 /* 
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Julio Cesar valadez castañeda
+ * Universidad Autonoma del Estado de México (UAEM)
+ * Proyecto Isoperimetro 
  */
 //http://blogs.kinetica-solutions.com/blog/category/html5/
 var fondo, canvas1, canvas2, canvas3, canvas4, buffer;
